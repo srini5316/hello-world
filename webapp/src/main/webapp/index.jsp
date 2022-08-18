@@ -33,6 +33,6 @@
   </div>
 
    <h1> Created by @netha works </h1>
-   <h2> Thank You :) :) </h2>
+   <h2> Thank You :) </h2>
   
 </form>
